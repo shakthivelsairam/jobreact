@@ -1,0 +1,82 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "name": "john",
+      "fathername": "peter",
+      "dob": "2010-02-08",
+      "doorno": "123",
+      "Address1": "San fran",
+      "Address2": "san",
+      "city": "CA",
+      "state": "CA",
+      "pincode": "234566",
+      "country": "US",
+      "mobileno": "67543218765",
+      "email": "john@gmail.com",
+      "aadhar": "33554466466566667",
+      "lang": "English",
+      "height": "162",
+      "id": "7d69e83e-c9ea-48f7-afd2-8ad2c32d9eb6"
+    },
+    {
+      "name": "test",
+      "fathername": "test12",
+      "dob": "",
+      "doorno": "",
+      "Address1": "",
+      "Address2": "",
+      "city": "",
+      "state": "",
+      "pincode": "",
+      "country": "",
+      "mobileno": "",
+      "email": "",
+      "aadhar": "",
+      "lang": "",
+      "height": "",
+      "id": "Zqv0Db5"
+    },
+    {
+      "name": "",
+      "fathername": "",
+      "dob": "",
+      "doorno": "",
+      "Address1": "",
+      "Address2": "",
+      "city": "",
+      "state": "",
+      "pincode": "",
+      "country": "",
+      "mobileno": "",
+      "email": "",
+      "aadhar": "",
+      "lang": "",
+      "height": "",
+      "id": "bm0aGCp"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Moto",
+      "password": 2
+    }
+  ]
+}
